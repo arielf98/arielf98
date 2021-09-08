@@ -1,3 +1,3 @@
-:boom: out of the box <br>
-:star2: love learn something new <br>
- :video_game: game for fun <br>
+:boom: Out of The Box <br>
+:star2: Love Learn Something New <br>
+ :video_game: Game for Fun <br>
